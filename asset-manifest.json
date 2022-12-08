@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shereit/static/css/main.2203f7a2.css",
-    "main.js": "/shereit/static/js/main.771777e7.js",
+    "main.js": "/shereit/static/js/main.37ef38db.js",
     "static/js/787.e9d56dc7.chunk.js": "/shereit/static/js/787.e9d56dc7.chunk.js",
     "static/media/NotoSansKR-Black.otf": "/shereit/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/shereit/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
@@ -17,11 +17,11 @@
     "static/media/NotoSansKR-Regular.woff2": "/shereit/static/media/NotoSansKR-Regular.b1db0fdc3a40f3da4051.woff2",
     "index.html": "/shereit/index.html",
     "main.2203f7a2.css.map": "/shereit/static/css/main.2203f7a2.css.map",
-    "main.771777e7.js.map": "/shereit/static/js/main.771777e7.js.map",
+    "main.37ef38db.js.map": "/shereit/static/js/main.37ef38db.js.map",
     "787.e9d56dc7.chunk.js.map": "/shereit/static/js/787.e9d56dc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2203f7a2.css",
-    "static/js/main.771777e7.js"
+    "static/js/main.37ef38db.js"
   ]
 }

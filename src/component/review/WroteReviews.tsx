@@ -50,8 +50,8 @@ export function WroteReviews ({item} : Iprops){
             <UserComment chkLine={commentMore}>
                 <p>
                     작성한 후기
-                    <span><img src="/images/etc/star1.svg" /> {item.product.rating}</span>  
-                    <span><img src="/images/etc/like.svg" /> {item.product.like}</span>
+                    <span><img src="/shereit/images/etc/star1.svg" /> {item.product.rating}</span>  
+                    <span><img src="/shereit/images/etc/like.svg" /> {item.product.like}</span>
                     <EtcBox>
                         {
                             item.product.isHostPick && (
@@ -63,9 +63,9 @@ export function WroteReviews ({item} : Iprops){
                         <ArrowBtn onClick={()=> setCommentMore((prev)=>!prev)}>
                             {
                                 Boolean(item.product.isHostPick) === true ? (
-                                    commentMore ? <img src="/images/etc/arrowTop.svg"/> : <img src="/images/etc/arrowBottom.svg"/>
+                                    commentMore ? <img src="/shereit/images/etc/arrowTop.svg"/> : <img src="/shereit/images/etc/arrowBottom.svg"/>
                                 ) :(
-                                    commentMore ? <img src="/images/etc/arrowBottom.svg"/> : <img src="/images/etc/arrowTop.svg"/>
+                                    commentMore ? <img src="/shereit/images/etc/arrowBottom.svg"/> : <img src="/shereit/images/etc/arrowTop.svg"/>
                                 )    
                             }
                         </ArrowBtn>
@@ -96,9 +96,9 @@ export function WroteReviews ({item} : Iprops){
                     <ArrowBtn onClick={()=> setCommentAdminMore((prev)=>!prev)}>
                         {
                             Boolean(item.product.isHostPick) === true ? (
-                                commentAdminMore ? <img src="/images/etc/arrowTop.svg"/> : <img src="/images/etc/arrowBottom.svg"/>
+                                commentAdminMore ? <img src="/shereit/images/etc/arrowTop.svg"/> : <img src="/shereit/images/etc/arrowBottom.svg"/>
                             ) :(
-                                commentAdminMore ? <img src="/images/etc/arrowBottom.svg"/> : <img src="/images/etc/arrowTop.svg"/>
+                                commentAdminMore ? <img src="/shereit/images/etc/arrowBottom.svg"/> : <img src="/shereit/images/etc/arrowTop.svg"/>
                             ) 
                         }
 

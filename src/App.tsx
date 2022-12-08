@@ -9,7 +9,7 @@ import { ReviewWrite } from './page/ReviewWrite';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/shereit">
 			<Routes>
 				<Route index element={<Review />} />
 				<Route path="/mypage/productview/apply/:seq" element={<ReviewWrite />} />

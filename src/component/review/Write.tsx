@@ -32,7 +32,7 @@ export function Write (){
 
 
     const getReviewableSeq = async () => {
-        const {data} = await axios.get("/data/availableData.json");
+        const {data} = await axios.get("/shereit/data/availableData.json");
         const result = data.filter((item)=> item.seq === Number(seq));
         setData(result);
     }
@@ -224,7 +224,7 @@ export function Write (){
                                                 src={item}
                                             />
                                             <div onClick={()=>deleteImg(index)}>
-                                                <img src="/images/etc/deleteIcon.svg" />
+                                                <img src="/shereit/images/etc/deleteIcon.svg" />
                                             </div>
                                         </PreviewImg>
                                         
@@ -270,7 +270,7 @@ export function Write (){
                             구매후기 약관 동의 (필수)
                         </label>
                         <div>
-                            <img src="/images/etc/arrowRight.svg"  />
+                            <img src="/shereit/images/etc/arrowRight.svg"  />
                         </div>        
                     </AgreeBox>
 

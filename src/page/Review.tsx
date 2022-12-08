@@ -28,7 +28,7 @@ export function Review (){
  
      // 작성가능한 리뷰 api
      const getReviewsAble = async () => {
-         const { data } = await axios.get("/data/availableData.json");
+         const { data } = await axios.get("/shereit/data/availableData.json");
          setReviewAble(data);
          moreList();
          getWroteReviews();
@@ -55,7 +55,7 @@ export function Review (){
  
      // 작성한 후기 api
      const getWroteReviews = async () => {
-         const { data } = await axios.get("/data/reviewData.json");
+         const { data } = await axios.get("/shereit/data/reviewData.json");
          setWroteReviews(data);
      }
  
@@ -99,7 +99,7 @@ export function Review (){
                         </NoticeType2>
 
                         <NoticeType1>
-                            <img src="/images/etc/caution_line_2R_16.svg" />
+                            <img src="/shereit/images/etc/caution_line_2R_16.svg" />
                             서비스 이용과 무관하거나 저작권 침해, 욕설, 광고, 음란, 불법적인 후기는 통보 없이 삭제 및 적립 혜택이 회수 될 수 있습니다.
                         </NoticeType1>
                         

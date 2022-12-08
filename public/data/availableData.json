@@ -1,0 +1,170 @@
+[
+    {
+    "seq": 1,
+    "review": {
+    "reserveAt": "2022-08-04",
+    "deadLine": "2022-08-10"
+    },
+    "product": {
+    "hostName": "대학교",
+    "hostImage": "https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700_1280.jpg",
+    "spaceName": "운동장",
+    "productName": "풋살장",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 2,
+    "review": {
+    "reserveAt": "2022-08-04",
+    "deadLine": "2022-08-15"
+    },
+    "product": {
+    "hostName": "파티룸",
+    "hostImage": "https://cdn.pixabay.com/photo/2016/02/01/18/26/wedding-table-1174135_1280.jpg",
+    "spaceName": "홍대",
+    "productName": "홍대 파티룸",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 3,
+    "review": {
+    "reserveAt": "2022-08-03",
+    "deadLine": "2022-08-15"
+    },
+    "product": {
+    "hostName": "풋살조아",
+    "hostImage": "https://cdn.pixabay.com/photo/2015/05/13/16/20/futsal-765719_1280.jpg",
+    "spaceName": "에어풋살장",
+    "productName": "에어풋살장",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 4,
+    "review": {
+    "reserveAt": "2022-08-02",
+    "deadLine": "2022-08-17"
+    },
+    "product": {
+    "hostName": "농구 퐈이야",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/04/25/05/44/basketball-2258650_1280.jpg",
+    "spaceName": "조던농구장",
+    "productName": "오후 대관",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 5,
+    "review": {
+    "reserveAt": "2022-08-02",
+    "deadLine": "2022-08-13"
+    },
+    "product": {
+    "hostName": "스터디",
+    "hostImage": "https://cdn.pixabay.com/photo/2016/11/23/17/18/bed-1853907_1280.jpg",
+    "spaceName": "스터디 룸",
+    "productName": "스터디룸 종일대여",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 6,
+    "review": {
+    "reserveAt": "2022-07-22",
+    "deadLine": "2022-08-11"
+    },
+    "product": {
+    "hostName": "아이유",
+    "hostImage": "https://cdn.pixabay.com/photo/2015/11/22/19/04/crowd-1056764_1280.jpg",
+    "spaceName": "잠실 주경기장",
+    "productName": "아이유 콘서트",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 7,
+    "review": {
+    "reserveAt": "2022-07-22",
+    "deadLine": "2022-08-12"
+    },
+    "product": {
+    "hostName": "학교 담당자",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/03/28/12/07/bricks-2181920_1280.jpg",
+    "spaceName": "강의실 A",
+    "productName": "오후 강의실 A 대여",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 8,
+    "review": {
+    "reserveAt": "2022-07-20",
+    "deadLine": "2022-08-17"
+    },
+    "product": {
+    "hostName": "학교 담당자",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/02/24/02/37/classroom-2093743_1280.jpg",
+    "spaceName": "강의실 B",
+    "productName": "오전 강의실 B 대여",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 9,
+    "review": {
+    "reserveAt": "2022-07-15",
+    "deadLine": "2022-08-15"
+    },
+    "product": {
+    "hostName": "발레선생님",
+    "hostImage": "https://cdn.pixabay.com/photo/2018/04/30/13/34/ballet-3362687_1280.jpg",
+    "spaceName": "발레 교습",
+    "productName": "종일 발레 교실",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 10,
+    "review": {
+    "reserveAt": "2022-07-10",
+    "deadLine": "2022-08-22"
+    },
+    "product": {
+    "hostName": "모차르트",
+    "hostImage": "https://cdn.pixabay.com/photo/2016/11/18/15/54/apartment-1835482_1280.jpg",
+    "spaceName": "피아노연습실",
+    "productName": "모여라 딩동댕",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 11,
+    "review": {
+    "reserveAt": "2022-07-12",
+    "deadLine": "2022-08-24"
+    },
+    "product": {
+    "hostName": "댄스 공작소",
+    "hostImage": "https://cdn.pixabay.com/photo/2018/12/10/03/42/hall-3866202_1280.jpg",
+    "spaceName": "이태원 스포츠댄스",
+    "productName": "원투 차차차",
+    "productType": "실시간"
+    }
+    },
+    {
+    "seq": 12,
+    "review": {
+    "reserveAt": "2022-07-10",
+    "deadLine": "2022-08-20"
+    },
+    "product": {
+    "hostName": "스튜디오는 내가",
+    "hostImage": "https://cdn.pixabay.com/photo/2015/06/24/01/16/photographer-819365_1280.jpg",
+    "spaceName": "다산스튜디오",
+    "productName": "베이비 촬영 상품",
+    "productType": "실시간"
+    }
+    }
+    ]

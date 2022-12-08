@@ -1,0 +1,288 @@
+[
+    {
+        "seq": 1,
+        "review": {
+        "reserveAt": "2022-01-05",
+        "createAt": "2022-01-12",
+        "review": "친절하게 대응해 주셔서 너무 좋았어요.",
+        "reply": "안녕하세요. 고객님. 좋은 후기 남겨주셔서 감사합니다. 다음에 또 이용해 주세요."
+    },
+        "product": {
+        "hostName": "펜타스테이지",
+        "hostImage": "https://cdn.pixabay.com/photo/2016/11/22/19/15/audience-1850119_1280.jpg",
+        "spaceName": "[펜타스테이지 강남] A stage 빈티지&화이트",
+        "productName": "시간대관",
+        "productType": "실시간",
+        "isHostPick": false,
+        "rating": 0,
+        "like": 520
+        }
+    },
+    {
+    "seq": 2,
+    "review": {
+    "reserveAt": "2022-02-10",
+    "createAt": "2022-02-22",
+    "review": "조금 지저분한거 말고는 너무 재밌게 사용하고갑니다~~ 추천추천!!",
+    "reply": "이전 시간에 바로 이어서 이용하시다보니 청소상태가 미흡했어요... 다음 이용하실때는 깨끗하게 이용하실수있게 노력하겠습니다. 감사합니다."
+    },
+    "product": {
+    "hostName": "체대입시FA강북캠퍼스",
+    "hostImage": "https://cdn.pixabay.com/photo/2016/02/04/23/02/gym-room-1180062_1280.jpg",
+    "spaceName": "[강북/체육관] 실내체육관",
+    "productName": "생활체육",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 5,
+    "like": 0
+    }
+    },
+    {
+    "seq": 3,
+    "review": {
+    "reserveAt": "2022-02-11",
+    "createAt": "2022-02-12",
+    "review": "라이브카페 가수분이 너무 노래를 잘해요, 덕분에 분위기 좋은곳에서 데이트 성공했어요!!! 짱짱",
+    "reply": "데이트에 성공하셨다니 제가 다 기쁘네요 ^^ 수요일과 일요일은 팝송으로 준비되어있으니 자주 놀러오세요~ 감사합니다."
+    },
+    "product": {
+    "hostName": "라이브보문",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/02/22/16/14/stage-2089831_1280.jpg",
+    "spaceName": "[성신여대]라이브 펍",
+    "productName": "단시관 대관",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 3,
+    "like": 400
+    }
+    },
+    {
+    "seq": 4,
+    "review": {
+    "reserveAt": "2022-07-13",
+    "createAt": "2022-07-15",
+    "review": "너무 더워서 실내파티공간 찾고있었는데, 애플망고 너무 좋아요!! 크리스마스 파티때 또 이용할께요.",
+    "reply": "즐겁게 사용하셨다니 감사합니다. 아쉽게도 겨울에는 운영을 하지 않고 있어요 ㅜㅜ 여름에만 이용 부탁드릴께요"
+    },
+    "product": {
+    "hostName": "사당 애플망고",
+    "hostImage": "https://cdn.pixabay.com/photo/2018/03/29/19/59/food-3273507_1280.jpg",
+    "spaceName": "사당이수-애플망고",
+    "productName": "시간당 결제",
+    "productType": "실시간",
+    "isHostPick": false,
+    "rating": 5,
+    "like": 50
+    }
+    },
+    {
+    "seq": 5,
+    "review": {
+    "reserveAt": "2022-07-10",
+    "createAt": "2022-08-10",
+    "review": "사장님 너무 친절하고 장비도 전부 쌔거처럼 관리되어있어서 좋아요.",
+    "reply": "안녕하세요. 더욱더 좋은 환경에서 촬영하실수있도록 노력하겠습니다 감사합니다!"
+    },
+    "product": {
+    "hostName": "일산 디피아이미디어",
+    "hostImage": "https://cdn.pixabay.com/photo/2018/03/27/00/50/child-3264751_1280.jpg",
+    "spaceName": "화상강의/유튜브스튜디오",
+    "productName": "온라인 화상 강의 룸1",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 5,
+    "like": 26
+    }
+    },
+    {
+    "seq": 6,
+    "review": {
+    "reserveAt": "2022-07-15",
+    "createAt": "2022-07-17",
+    "review": "바닥이 깨끗해서 비보잉 연습하기 너무 쾌적했어요! 댄스연습은 블랙골드!!",
+    "reply": "홍보 감사합니다 고객님^^ 더욱더 청결하게 유지하도록 노력할께요."
+    },
+    "product": {
+    "hostName": "홍대 블랙골드",
+    "hostImage": "https://cdn.pixabay.com/photo/2014/02/05/00/37/staging-258631_1280.jpg",
+    "spaceName": "홍대20평-블랙골드",
+    "productName": "시간당 결제",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 2,
+    "like": 7
+    }
+    },
+    {
+    "seq": 7,
+    "review": {
+    "reserveAt": "2022-07-16",
+    "createAt": "2022-08-18",
+    "review": "아... 조용하고 다 좋았는데, PC사양이 너무 안좋아서 계속 버벅거려요 ㅜㅜ 컴터좀 바꿔주세요.",
+    "reply": "안녕하세요 고객님, 안그래도 다음달 9월에 전체적으로 내부공사가 있을예정이라 공사가 끝남과 함께 컴퓨터도 모두 새제품으로 변경될 예정입니다. 죄송합니다."
+    },
+    "product": {
+    "hostName": "명지대학교(인문)",
+    "hostImage": "https://cdn.pixabay.com/photo/2013/12/23/17/12/work-space-232985_1280.jpg",
+    "spaceName": "본관 인문대pc정보교육실",
+    "productName": "강의",
+    "productType": "실시간",
+    "isHostPick": false,
+    "rating": 4,
+    "like": 33
+    }
+    },
+    {
+    "seq": 8,
+    "review": {
+    "reserveAt": "2022-07-21",
+    "createAt": "2022-08-01",
+    "review": "날씨가 너무 좋아서 루프탑파티 즐겁게 마쳤어요. 야외라서 날씨 잘 보고 이용하는게 좋을꺼같아요",
+    "reply": "안녕하세요. 고객님. 좋은 후기 남겨주셔서 감사합니다. 다음에 또 이용해 주세요."
+    },
+    "product": {
+    "hostName": "우리옛돌박물관",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/08/02/01/30/urban-2569550_1280.jpg",
+    "spaceName": "4F 야외 루프탑",
+    "productName": "4F 야외 루프탑",
+    "productType": "실시간",
+    "isHostPick": false,
+    "rating": 4,
+    "like": 220
+    }
+    },
+    {
+    "seq": 9,
+    "review": {
+    "reserveAt": "2022-07-23",
+    "createAt": "2022-07-25",
+    "review": "동네가 조용해서 전시회하기 너무 좋았어요.",
+    "reply": "안녕하세요 작가님^^ 멋진 그림 전시해주셔서 감사합니다. 자주 이용 부탁드려요~ "
+    },
+    "product": {
+    "hostName": "다다프로젝트",
+    "hostImage": "https://cdn.pixabay.com/photo/2016/09/08/22/43/books-1655783_1280.jpg",
+    "spaceName": "연희동 감성있는 갤러리 전시대관",
+    "productName": "연희동 감성있는 갤러리 전시대관",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 4,
+    "like": 600
+    }
+    },
+    {
+    "seq": 10,
+    "review": {
+    "reserveAt": "2022-07-24",
+    "createAt": "2022-07-24",
+    "review": "모던하고 깔끔하고 너무 좋아서 나가기 아쉽더라구요 ㅠㅠ 다만, 윗집에서 너무 쿵쿵거려서 아기가 밤에 잠을 못잤어요. 공간을 운영하시려면 이와같은 상황은 없도록 해주셨어야하는거 아닌가 싶네요. 집에서 벗어나서 분위기좀 바꿔보려했는데 더 피곤하게 떠나는거 같아요.",
+    "reply": ""
+    },
+    "product": {
+    "hostName": "윤이맘",
+    "hostImage": "https://cdn.pixabay.com/photo/2015/10/20/18/57/furniture-998265_1280.jpg",
+    "spaceName": "[안산]화이트 모던하우스",
+    "productName": "일반",
+    "productType": "실시간",
+    "isHostPick": false,
+    "rating": 1,
+    "like": 100
+    }
+    },
+    {
+    "seq": 11,
+    "review": {
+    "reserveAt": "2022-07-23",
+    "createAt": "2022-08-10",
+    "review": "친절하게 대응해 주셔서 너무 좋았어요.",
+    "reply": "안녕하세요. 고객님. 좋은 후기 남겨주셔서 감사합니다. 다음에 또 이용해 주세요."
+    },
+    "product": {
+    "hostName": "쉐어잇",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/07/07/16/49/share-2482016_1280.jpg",
+    "spaceName": "쉐어잇 공간",
+    "productName": "쉐어잇 상품",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 5,
+    "like": 1220
+    }
+    },
+    {
+    "seq": 12,
+    "review": {
+    "reserveAt": "2022-07-25",
+    "createAt": "2022-08-10",
+    "review": "방이 너무 깨끗해서 친구들과 잘 놀다 가요. 다음에 재 구매 의사 100%%%%",
+    "reply": "안녕하세요. 고객님. 좋은 후기 남겨주셔서 감사합니다. 앞으로도 깨끗하고 좋은 서비스로 찾아뵙겠습니다."
+    },
+    "product": {
+    "hostName": "홍대 파티룸",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/08/07/00/12/function-2597851_1280.jpg",
+    "spaceName": "홍대 파티룸",
+    "productName": "종일 홍대 파티룸 풀빌라",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 5,
+    "like": 1520
+    }
+    },
+    {
+    "seq": 13,
+    "review": {
+    "reserveAt": "2022-07-29",
+    "createAt": "2022-08-10",
+    "review": "스포츠 댄스 교습실에서 새로운 인연들을 만나 좋았습니다. 값 싸게 빌려서 운행하는데 큰 도움이 되었습니다.",
+    "reply": "안녕하세요. 고객님. 좋은 후기 남겨주셔서 감사합니다. 다음에 또 이용해 주세요."
+    },
+    "product": {
+    "hostName": "댄스 공작소",
+    "hostImage": "https://cdn.pixabay.com/photo/2014/11/11/15/24/gym-526996_1280.jpg",
+    "spaceName": "이태원 스포츠댄스",
+    "productName": "원투 차차차",
+    "productType": "실시간",
+    "isHostPick": false,
+    "rating": 4,
+    "like": 220
+    }
+    },
+    {
+    "seq": 14,
+    "review": {
+    "reserveAt": "2022-08-01",
+    "createAt": "2022-08-10",
+    "review": "1호점에 이어 2호점까지 항상 대박나세요^^",
+    "reply": "안녕하세요. 고객님. 응원에 감사합니다. 사용하는데 불편함은 없으셨는지요?^^ 앞으로 3호점 4호점 대성하는 댄스 공작소가 되겠습니다. 감사합니다."
+    },
+    "product": {
+    "hostName": "댄스 공작소",
+    "hostImage": "https://cdn.pixabay.com/photo/2017/08/07/17/19/people-2605906_1280.jpg",
+    "spaceName": "이태원 스포츠댄스 2호점",
+    "productName": "붐밥밥 붐밥밥 왈츠",
+    "productType": "실시간",
+    "isHostPick": false,
+    "rating": 4,
+    "like": 267
+    }
+    },
+    {
+    "seq": 15,
+    "review": {
+    "reserveAt": "2022-08-01",
+    "createAt": "2022-08-10",
+    "review": "다둥이 촬영은 역시 다산스튜디오!!!",
+    "reply": "안녕하세요. 고객님. 좋은 후기 남겨주셔서 감사합니다. 고객님의 행복이 저의 행복이죠~!!"
+    },
+    "product": {
+    "hostName": "스튜디오는 내가",
+    "hostImage": "https://cdn.pixabay.com/photo/2019/10/29/19/36/baby-4587923_1280.jpg",
+    "spaceName": "다산스튜디오",
+    "productName": "베이비 촬영 상품",
+    "productType": "실시간",
+    "isHostPick": true,
+    "rating": 4,
+    "like": 798
+    }
+    }
+]
+    
